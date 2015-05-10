@@ -5,3 +5,6 @@
  - show 3d globe interface with selectable countries
  - show info box of song with youtube video playing and embedded
  - have text input for searching for a country
+
+
+http://www.jasondavies.com/maps/zoom/
